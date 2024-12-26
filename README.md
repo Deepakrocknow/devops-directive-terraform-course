@@ -42,4 +42,4 @@ Explains different types of testing (manual + automated) for Terraform modules a
 
 ## 09 - Developer Workflows + CI/CD
 
-Covers how teams can work together with Terraform and how to set up CI/CD pipelines to keep infrastructure environments up to date.
+Covers how teams can work together with Terraform and how to set up CI/CD pipelines to keep infrastructure environments up to date..
